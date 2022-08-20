@@ -1,0 +1,155 @@
+pack.name=工业时代2
+pack.description=工业时代2附加包所属资源包
+
+## 矿石
+tile.ic2:tin_ore.name=锡矿石
+tile.ic2:lead_ore.name=铅矿石
+tile.ic2:uranium_ore.name=铀矿石
+tile.ic2:deepslate_tin_ore.name=深层锡矿石
+tile.ic2:deepslate_lead_ore.name=深层铅矿石
+tile.ic2:deepslate_uranium_ore.name=深层铀矿石
+
+## 植物
+tile.ic2:rubber_log.name=橡胶原木
+tile.ic2:rubber_wood.name=橡胶木
+tile.ic2:stripped_rubber_log.name=去皮橡胶原木
+tile.ic2:stripped_rubber_wood.name=去皮橡胶木
+tile.ic2:rubber_leaves.name=橡胶树叶
+tile.ic2:rubber_sapling_block.name=橡胶树苗
+
+item.ic2:rubber_sapling=橡胶树苗
+
+## 锭
+item.ic2:tin_ingot=锡锭
+item.ic2:lead_ingot=铅锭
+item.ic2:steel_ingot=钢锭
+item.ic2:uranium_ingot=铀锭
+item.ic2:bronze_ingot=青铜锭
+item.ic2:alloy_ingot=合金锭
+item.ic2:advanced_alloy=高级合金
+
+## 板
+item.ic2:copper_plate=铜板
+item.ic2:tin_plate=锡板
+item.ic2:iron_plate=铁板
+item.ic2:gold_plate=金板
+item.ic2:lead_plate=铅板
+item.ic2:steel_plate=钢板
+item.ic2:obsidian_plate=黑曜石板
+item.ic2:lapis_plate=青金石板
+item.ic2:bronze_plate=青铜板
+item.ic2:uranium_plate=铀板
+
+## 粉
+item.ic2:copper_dust=铜粉
+item.ic2:tin_dust=锡粉
+item.ic2:lead_dust=铅粉
+item.ic2:coal_dust=煤粉
+item.ic2:iron_dust=铁粉
+item.ic2:gold_dust=金粉
+item.ic2:diamond_dust=钻石粉
+item.ic2:lapis_dust=青金石粉
+item.ic2:obsidian_dust=黑曜石粉
+item.ic2:bronze_dust=青铜粉
+item.ic2:silver_dust=银粉
+item.ic2:stone_dust=石粉
+item.ic2:lithium_dust=锂粉
+item.ic2:sulfur_dust=硫粉
+item.ic2:silicon_dioxide_dust=二氧化硅粉
+item.ic2:energium_dust=能量水晶粉
+item.ic2:coal_fuel_dust=湿煤粉
+item.ic2:tin_hydrated_dust=氢氧化锡粉
+item.ic2:clay_dust=粘土粉
+
+## 外壳
+item.ic2:tin_casing=锡质外壳
+item.ic2:copper_casing=铜质外壳
+item.ic2:tin_casing=锡质外壳
+item.ic2:bronze_casing=青铜外壳
+item.ic2:gold_casing=金质外壳
+item.ic2:iron_casing=铁质外壳
+item.ic2:steel_casing=钢质外壳
+item.ic2:lead_casing=铅质外壳
+
+## 粉碎矿石
+item.ic2:crushed_copper_ore=粉碎铜矿石
+item.ic2:crushed_tin_ore=粉碎锡矿石
+item.ic2:crushed_iron_ore=粉碎铁矿石
+item.ic2:crushed_gold_ore=粉碎金矿石
+item.ic2:crushed_lead_ore=粉碎铅矿石
+item.ic2:crushed_uranium_ore=粉碎铀矿石
+
+## 线缆
+item.ic2:copper_cable=铜质导线
+item.ic2:insulated_copper_cable=绝缘铜质导线
+
+## 常规
+tile.ic2:machine_basic_casing.name=基础机械外壳
+tile.ic2:smithing_table.name=工业锻造台
+
+item.ic2:electronic_circuit=电路板
+item.ic2:advanced_circuit=高级电路板
+
+## 电池
+item.ic2:re_battery=充电电池
+
+## 矿锭块
+tile.ic2:tin_block.name=锡块
+tile.ic2:lead_block.name=铅块
+tile.ic2:bronze_block.name=青铜块
+tile.ic2:steel_block.name=钢块
+
+## 发电机
+tile.ic2:generator.name=火力发电机 §e能量等级 1
+
+## 机器
+tile.ic2:macerator.name=打粉机 §e能量等级 1
+tile.ic2:batbox.name=储电箱 §e能量等级 1
+
+## 盔甲
+item.ic2:bronze_helmet=青铜头盔
+item.ic2:bronze_chestplate=青铜胸甲
+item.ic2:bronze_leggings=青铜护腿
+item.ic2:bronze_boots=青铜靴子
+
+## 工具武器
+item.ic2:treetap=木龙头
+item.ic2:forge_hammer=锻造锤
+item.ic2:cutter=切割钳
+item.ic2:wrench=扳手
+item.ic2:bronze_sword=青铜剑
+item.ic2:bronze_axe=青铜斧
+item.ic2:bronze_pickaxe=青铜镐
+item.ic2:bronze_shovel=青铜锹
+item.ic2:bronze_hoe=青铜锄
+
+## 资源
+item.ic2:resin=粘性树脂
+item.ic2:rubber=橡胶
+
+## UI
+info.tips=单击鼠标右键以拆卸机器
+
+info.energy=能量： %1$s/%2$sEU
+info.progress.generator=燃料： %s%
+info.progress.generator_geo=岩浆： %smB
+
+info.slot.fuel=燃料槽： 	#
+info.slot.raw=原料槽： 	#
+info.slot.amount=数量： 	#
+
+info.carried.availability=手持物： 	#
+info.availability.raw=原料
+info.availability.tool=工具
+info.availability.unusable=§l§c不可用§r
+info.availability.usable=§l§a可用§r
+info.availability.none=无
+
+info.progress.machine.process=进度： %s%
+
+info.ic2:smithing_table.title=§l§9工业锻造台§r
+info.ic2:generator.title=§l§9火力发电机§r
+info.ic2:macerator.title=§l§9打粉机§r
+info.ic2:batbox.title=§l§9储电箱§r
+
+item.empty=空

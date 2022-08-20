@@ -1,0 +1,155 @@
+pack.name=Industrial Craft 2
+pack.description=Industrial Craft 2 Addon's Resource Pack
+
+## Ore
+tile.ic2:tin_ore.name=Tin Ore
+tile.ic2:lead_ore.name=Lead Ore
+tile.ic2:uranium_ore.name=Uranium Ore
+tile.ic2:deepslate_tin_ore.name=Deepslate Tin Ore
+tile.ic2:deepslate_lead_ore.name=Deepslate Lead Ore
+tile.ic2:deepslate_uranium_ore.name=Deepslate Uranium Ore
+
+
+## Plant
+tile.ic2:rubber_log.name=Rubber Log
+tile.ic2:rubber_wood.name=Rubber Wood
+tile.ic2:stripped_rubber_log.name=Stripped Rubber Log
+tile.ic2:stripped_rubber_wood.name=Stripped Rubber Wood
+tile.ic2:rubber_leaves.name=Rubber Leaves
+tile.ic2:rubber_sapling_block.name=Rubber Sapling
+
+item.ic2:rubber_sapling=Rubber Sapling
+
+## Ingot
+item.ic2:tin_ingot=Tin Ingot
+item.ic2:lead_ingot=Lead Ingot
+item.ic2:steel_ingot=Steel Ingot
+item.ic2:uranium_ingot=Uranium Ingot
+item.ic2:bronze_ingot=Bronze Ingot
+item.ic2:alloy_ingot=Alloy Ingot
+
+## Plate
+item.ic2:copper_plate=Copper Plate
+item.ic2:tin_plate=Tin Plate
+item.ic2:lead_plate=Lead Plate
+item.ic2:steel_plate=Steel Plate
+item.ic2:iron_plate=Iron Plate
+item.ic2:gold_plate=Gold Plate
+item.ic2:obsidian_plate=Obsidian Plate
+item.ic2:lapis_plate=Lapis Plate
+item.ic2:bronze_plate=Bronze Plate
+item.ic2:uranium_plate=Uranium Plate
+
+## Dust
+item.ic2:copper_dust=Copper Dust
+item.ic2:tin_dust=Tin Dust
+item.ic2:lead_dust=Lead Dust
+item.ic2:coal_dust=Coal Dust
+item.ic2:iron_dust=Iron Dust
+item.ic2:gold_dust=Gold Dust
+item.ic2:diamond_dust=Diamond Dust
+item.ic2:lapis_dust=Lapis Dust
+item.ic2:bronze_dust=Bronze Dust
+item.ic2:silver_dust=Silver Dust
+item.ic2:stone_dust=Stone Dust
+item.ic2:lithium_dust=Lithium Dust
+item.ic2:sulfur_dust=Sulfur Dust
+item.ic2:silicon_dioxide_dust=Silicon Dioxide Dust
+item.ic2:energium_dust=Energium Dust
+item.ic2:coal_fuel_dust=Coal Fuel Dust
+item.ic2:tin_hydrated_dust=Tin Hydrated Dust
+item.ic2:clay_dust=Clay Dust
+
+## Casing
+item.ic2:tin_casing=Tin Casing
+item.ic2:copper_casing=Copper Casing
+item.ic2:tin_casing=Tin Casing
+item.ic2:bronze_casing=Bronze Casing
+item.ic2:gold_casing=Gold Casing
+item.ic2:iron_casing=Iron Casing
+item.ic2:steel_casing=Steel Casing
+item.ic2:lead_casing=Lead Casing
+
+## Crushed Ore
+item.ic2:crushed_copper_ore=Crushed Copper Ore
+item.ic2:crushed_tin_ore=Crushed Tin Ore
+item.ic2:crushed_iron_ore=Crushed Iron Ore
+item.ic2:crushed_gold_ore=Crushed Gold Ore
+item.ic2:crushed_lead_ore=Crushed Lead Ore
+item.ic2:crushed_uranium_ore=Crushed Uranium Ore
+
+## Cable
+item.ic2:copper_cable=Copper Cable
+item.ic2:insulated_copper_cable=Insulated Copper Cable
+
+## General
+tile.ic2:machine_basic_casing.name=Basic Machine Casing
+tile.ic2:smithing_table.name=Industrial Smithing Table
+
+item.ic2:electronic_circuit=Electronic Circuit
+item.ic2:advanced_circuit=Advanced Circuit
+
+## Battery
+item.ic2:re_battery=Re-battery
+
+## Ingot Block
+tile.ic2:copper_block.name=Copper Block
+tile.ic2:tin_block.name=Tin Block
+tile.ic2:lead_block.name=Lead Block
+tile.ic2:bronze_block.name=Bronze Block
+tile.ic2:steel_block.name=Steel Block
+
+## Generator
+tile.ic2:generator.name=Generator §eTire 1
+
+## Machine
+tile.ic2:macerator.name=Macerator §eTire 1
+tile.ic2:batbox.name=Batbox §eTire 1
+
+## Armor
+item.ic2:bronze_helmet=Bronze Helmet
+item.ic2:bronze_chestplate=Bronze Chestplate
+item.ic2:bronze_leggings=Bronze Leggings
+item.ic2:bronze_boots=Bronze Boots
+
+## Tool And Weapon
+item.ic2:treetap=Treetap
+item.ic2:forge_hammer=Forge Hammer
+item.ic2:cutter=Cutter
+item.ic2:wrench=Wrench
+item.ic2:bronze_sword=Bronze Sword
+item.ic2:bronze_axe=Bronze Axe
+item.ic2:bronze_pickaxe=Bronze Pickaxe
+item.ic2:bronze_shovel=Bronze Shovel
+item.ic2:bronze_hoe=Bronze Hoe
+
+## Resource
+item.ic2:resin=Resin
+item.ic2:rubber=Rubber
+
+## UI
+info.tips=Use to disassemble the machine
+
+info.energy=Energy: %1$s/%2$sEU
+info.progress.generator=Fuel: %s%
+info.progress.generator_geo=Lava: %smB
+
+info.slot.fuel=Fuel Slot: 	#
+info.slot.raw=Raw Slot: 	#
+info.slot.amount=Amount: 	#
+
+info.carried.availability=Carried Item: 	#
+info.availability.raw=Raw
+info.availability.tool=Tool
+info.availability.unusable=§l§cUnusable§r
+info.availability.usable=§l§aUsable§r
+info.availability.none=None
+
+info.progress.machine.process=Progress: %s%
+
+info.ic2:smithing_table.title=§l§9Industrial Smithing Table§r
+info.ic2:generator.title=§l§9Generator§r
+info.ic2:macerator.title=§l§9Macerator§r
+info.ic2:batbox.title=§l§9Batbox§r
+
+item.empty=Empty
