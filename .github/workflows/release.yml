@@ -1,9 +1,9 @@
 name: Create and Upload Release
 
 on:
-  release:
+  repository_dispatch:
     types:
-      - created
+      - ic2_build_finished
 
 jobs:
   build:
