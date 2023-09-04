@@ -1,0 +1,28 @@
+name: Create and Upload Release
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download Artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: my-artifacts
+          path: artifacts
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            artifacts/industrialcraft-2-2.9.*+ex119-1.19.2-forge.jar
+            artifacts/industrialcraft-2-2.9.*+ex119-1.19.2-fabric.jar
+          tag_name: ${{ github.event.release.tag_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.IC2_ROOT_TOKEN }}
